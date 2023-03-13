@@ -1,7 +1,7 @@
 # web-video-player
 
 ### Purpose:
-NGINX webserver with index.html serving embedded video using javascript library.
+Build a container image for Cradlepoint routers with an NGINX webserver and javascript video player.
 
 ![image](https://user-images.githubusercontent.com/7169690/221065573-005d6b62-7788-49ff-91b4-9ef174bae7fc.png)
 
